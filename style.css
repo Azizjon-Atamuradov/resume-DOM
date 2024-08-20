@@ -1,0 +1,626 @@
+.main_container {
+    border: solid black;
+    height: 1850px;
+    background-color: aqua;
+}
+
+.box {
+  
+    height: 120px;
+    display: flex;
+    justify-content: center;
+   
+}
+#box1 {
+    width: 50%;
+    align-items: center;
+}
+
+
+#biogr{
+    width: 100%;
+    height: auto;
+    margin: 5px;
+    
+}
+.section1 {
+    display: flex;
+}
+    
+#title {
+    font-size: 25px;
+ }
+
+ .background {
+    padding: 1px;
+    margin: 1em;
+    display: flex;
+    height: 120px;
+   
+ }  
+     
+ .uber {
+    height: 90px;
+    width: 70%;
+    padding: 5px;
+    display: flex;
+    
+    
+
+ }
+ .skills {
+ 
+    height: 52px;
+    width: 30%;
+    margin: 3px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    
+ }
+
+.description{
+ 
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightpink;
+      
+    
+}
+.description:hover {
+    background-color: beige;
+}
+
+.data {
+ 
+    height: 30px;
+    width: 25%;
+    margin-top: 25px;
+    
+}  
+#March {
+    text-align: center;
+    margin-top: 5px;
+}
+#uberlogo {
+    border: solid black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+#uberdriver {
+    text-align: center;
+    
+}
+
+
+
+.background2 {
+
+ display: flex;
+ margin: 1em;
+ height: 140px; 
+}
+
+
+
+.skills2 {
+ 
+    margin-left: 7.8px;
+    width: 530px;
+    height:200px ;
+    margin-top: 0px;
+}
+
+.description2 {
+  
+    height: 130px;
+    width: 80%;
+}
+
+
+.tuft {
+    height: 90px;
+    width: 70%;
+    padding: 5px;
+    display: flex;
+
+ }
+ #datatuft {
+    text-align: center;
+    margin-top: 5px;
+ }
+
+ .description_tuft {
+    height: 110px;
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    text-align: center;
+    background-color: darkturquoise;
+}
+.description_tuft:hover {
+    background-color:lightcoral;
+
+
+}
+
+
+
+#saglogo {
+    border: solid black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 5px;
+}
+#arrow {
+    height: 30px;
+   
+
+}
+.pic {
+   
+    display: flex;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 50;
+    display: flex;
+    width: 1245px;
+    background-color: springgreen;
+    color: black;
+    
+}
+#xumologo {
+
+    width: 130px;
+    height: 110px;   
+    border-radius: 45%; 
+    
+}
+#ar_ed {
+    height: 30px;
+}
+
+#perlogo {
+    border: solid black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 5px;
+}
+#perscholas {
+    margin-top: 40px;
+}
+.perdescription {
+    height: 90px;
+ 
+}
+.background3 {
+
+    display: flex;
+    margin: 1em;
+    height: 100px;
+ 
+      
+   }
+   .backgroundxumo {
+ 
+    display: flex;
+    margin: 1em;
+ 
+    height: 100px; 
+    
+   }
+   .descriptionxumo {
+    height: 90px;
+  
+}
+#skillogo {
+    height: 60px;
+  
+    
+}
+.skills {
+ 
+    height: 75px;
+    width: 30%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+      
+ }
+ .prog_skil {
+    width: 300px;
+    height: 25px;
+    background-color: lightblue;
+    color: white;
+    text-align: end;
+    padding-top: 10px;
+    padding-right: 7px;
+
+}
+
+
+.skills_pic {
+    
+width: 30%;
+text-align: center;
+padding-bottom: 10px;
+
+}
+
+.end {
+    border: solid black;
+    height: 20px;
+    width: 30px;
+}
+.mainbox {
+    display: flex;
+    width: 340px;
+    background-color: black;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.prog_skil_css {
+ 
+    width: 295px;
+    height: 25px;
+    background-color: lightcoral;
+    color: white;
+    text-align: end;
+    padding-top: 10px;
+    padding-right: 5px;
+
+}
+.prog_skil_java {
+
+    width: 288px;
+    height: 25px;
+    background-color:lightseagreen;
+    color: white;
+    text-align: end;
+    padding-top: 10px;
+    padding-right: 5px;
+
+}
+
+.skills_pic_lan {
+    
+    width: 30%;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.skills_uzbek {
+    height: 95px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
+       
+ }
+ .circle {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: purple;
+    
+    
+ }
+ .bigcircle {
+    display: flex;
+   justify-content: space-around;
+   margin: 35px;
+    
+ }
+
+
+.background_sag {
+ 
+    padding: 1px;
+    margin: 1em;
+    display: flex;
+    height: 120px;
+    
+    
+ }
+
+
+ .skills_eng {
+
+    height: 95px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+
+       
+ }
+ 
+
+ .circle_1 {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    
+    
+ }
+ .circle5 {
+    background-color: black;
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    
+ }
+
+
+ .skills_language {
+ 
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+    background-color: hotpink;
+    color: aliceblue;
+      
+ }
+
+ .circle2 {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    
+    
+ }
+
+ .circle3 {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: lightsalmon;
+    
+    
+ }
+ .circle5 {
+    background-color: black;
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    
+ }
+ .tajik {
+    display: flex;
+    justify-content: space-evenly;
+    border: solid black;
+    text-align: start;
+    align-items: start;
+ }
+
+
+ .skills_turk {
+
+    height: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 530px;
+
+       
+ }
+ .description_tuft1 {
+    height: 110px;
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    text-align: center;
+    background-color:lightskyblue;
+}
+.description_tuft1:hover {
+    background-color: gold;
+}
+
+.description_per{
+
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    background-color: steelblue;
+    color: white;
+      
+    
+}
+.description_per:hover {
+
+    background-color: purple;
+}
+
+.description_selxoz{
+
+
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    color: white;
+}
+
+.description_selxoz:hover {
+    background-color: gold;
+} 
+
+.pic1 {
+
+    display: flex;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 50;
+    display: flex;
+    width: 1245px;
+    color: black;
+    background-color: aqua;
+}
+
+
+
+ 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    box-sizing: border-box;
+}
+ 
+#navbar {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: end;
+    margin-top: 3em;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar ul li {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+ 
+#navbar ul li a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+   
+}
+
+ 
+ 
+#info {
+    font-size: 25px;
+    text-align: center;
+    margin: 2em;
+}
+
+#p_info {
+    font-size: 20px;
+    text-align: center;
+}
+
+body {
+    /* border: solid black; */
+    background-color: #87ceeb;
+    margin: 1em;
+}
+
+button {
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    margin: 1em;
+   
+}
+
+a {
+    display: flex;
+    justify-content: end;
+}
+
+#p_exp {
+    font-size: 23px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid black;
+    padding: 25px;
+
+}
+
+.exp_info {
+    text-align: center;
+    margin: 3em;
+} 
+
+ 
+
+#exp {
+    background-color: #333333;
+    color: aliceblue;
+}
+
+#p_edu {
+    font-size: 23px;
+    text-align: center;
+    border: solid black;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info_edu {
+    text-align: center;
+    margin: 5em;
+}
+
+#edu {
+    background-color: #F5F5DC;
+}
+#p_skil {
+    font-size: 25px;
+    text-align: center;
+}
+
+.sk {
+    text-align: center;
+    margin: 5em;
+}
+
+#skl {
+    background-color:coral;
+    color: white;
+}
+#p_lang {
+    font-size: 25px;
+    text-align: center;
+}
+
+.lan {
+    text-align: center;
+    margin: 3em;
+  
+}
+#lang {
+    background-color: cornflowerblue;
+    color: antiquewhite;
+}
